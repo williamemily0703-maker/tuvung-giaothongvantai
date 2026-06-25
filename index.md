@@ -1,3 +1,4 @@
+
 | Từ tiếng Đức (mạo từ) | Phiên âm IPA của từ | Nghĩa tiếng Việt | Ví dụ (cặp câu hỏi – câu trả lời tiếng Đức kèm IPA câu, biến thể) | Bản dịch tiếng Việt |
 |------------------------|---------------------|------------------|------------------------------------------------------------------|----------------------|
 | das Verkehrswesen | [das fɛɐ̯ˈkeːɐ̯sˌveːzn̩] | Ngành giao thông | **Số ít:** Frage: Was versteht man unter dem Begriff Verkehrswesen? [vas fɛɐ̯ˈʃteːt man ˈʊntɐ deːm bəˈɡʁɪf fɛɐ̯ˈkeːɐ̯sˌveːzn̩] – Antwort: Das Verkehrswesen umfasst alle Einrichtungen und Aktivitäten des Personen- und Gütertransports. [das fɛɐ̯ˈkeːɐ̯sˌveːzn̩ ˈʊmfast ˈalə ˈaɪ̯nˌʁɪçtʊŋən ʊnt aktiviˈtɛːtn̩ dɛs pɛʁˈzoːnən ʊnt ˈɡyːtɐtʁansˌpɔʁts]<br><br>**Số nhiều:** (hiếm dùng, không có dạng số nhiều thông dụng) | **Số ít:** Hỏi: Người ta hiểu thế nào về khái niệm ngành giao thông? – Đáp: Ngành giao thông bao gồm tất cả các thiết bị và hoạt động vận tải hành khách và hàng hóa. |
